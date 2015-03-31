@@ -1,5 +1,10 @@
 .hll { background-color: #ffffcc }
-.highlight { background-color: #ffffcc }
+pre { font: 12px Consolas,"Liberation Mono",Menlo,Courier,monospace }
+.highlight { margin-bottom: 16px }
+.highlight pre {
+  background-color: #ffffcc; padding: 16px; font-size: 85%; overflow: auto;
+  line-height: 1.45; background-color: #f7f7f7 border-radius: 4px;
+}
 .c { color: #999988; font-style: italic } /* Comment */
 .err { color: #a61717; background-color: #e3d2d2 } /* Error */
 .k { color: #000000; font-weight: bold } /* Keyword */
