@@ -3,7 +3,7 @@ pre { font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace; }
 .highlight { margin-bottom: 16px }
 .highlight pre {
    background-color: #f7f7f7; padding: 16px; overflow: auto;
-  line-height: 1.45; border-radius: 4px;
+   border-radius: 4px;
 }
 .c { color: #999988; font-style: italic } /* Comment */
 .err { color: #a61717; background-color: #e3d2d2 } /* Error */
