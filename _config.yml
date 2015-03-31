@@ -1,3 +1,6 @@
+markdown: maruku
+highlighter: pygments
+
 kramdown:
   input: GFM
   auto_ids:       true
