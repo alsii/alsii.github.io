@@ -16,6 +16,6 @@ defaults:
     scope:
       path: "project1"
     values:
-      layout: "default"
+      layout: "post"
       published: true
       
