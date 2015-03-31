@@ -2,7 +2,7 @@
 pre { font: 12px Consolas,"Liberation Mono",Menlo,Courier,monospace }
 .highlight { margin-bottom: 16px }
 .highlight pre {
-   background-color: #f7f7f7; padding: 16px; font-size: 85%; overflow: auto;
+   background-color: #f7f7f7; padding: 16px; overflow: auto;
   line-height: 1.45; border-radius: 4px;
 }
 .c { color: #999988; font-style: italic } /* Comment */
