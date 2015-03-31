@@ -1,5 +1,5 @@
 markdown: redcarpet
-highlighter: pygments
+
 
 kramdown:
   input: GFM
