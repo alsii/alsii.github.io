@@ -1,5 +1,5 @@
 .hll { background-color: #ffffcc }
-pre { font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace }
+pre { font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace; text-decoration: underline }
 .highlight { margin-bottom: 16px }
 .highlight pre {
    background-color: #f7f7f7; padding: 16px; overflow: auto;
