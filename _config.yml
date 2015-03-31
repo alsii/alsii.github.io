@@ -1,4 +1,4 @@
-markdown: maruku
+markdown: kramdown
 highlighter: pygments
 
 kramdown:
