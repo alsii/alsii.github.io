@@ -6,11 +6,6 @@ pre { font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace; }
    border-radius: 4px;
 }
 
-.highlight pre<.language-php {
-   background-color: #f7fcf7; padding: 16px; overflow: auto;
-   border-radius: 4px;
-}
-
 .c { color: #c0c0c0; font-style: italic } /* Comment */
 .err { color: #a61717; background-color: #e3d2d2 } /* Error */
 .k { color: #000080; font-weight: bold } /* Keyword */
