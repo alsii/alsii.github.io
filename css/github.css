@@ -6,8 +6,8 @@ pre { font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace; }
    border-radius: 4px;
 }
 
-.language-php {
-   background-color: #f7c0f7; padding: 16px; overflow: auto;
+.highlight pre<.language-php {
+   background-color: #f7fcf7; padding: 16px; overflow: auto;
    border-radius: 4px;
 }
 
