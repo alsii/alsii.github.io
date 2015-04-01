@@ -44,7 +44,6 @@ pre { font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace; }
 .nn { color: #555555 } /* Name.Namespace */
 .nt { color: #000080 } /* Name.Tag */
 .nv { color: #aa4400 } /* Name.Variable */
-.nx { color: #ee0000 } /* Class Reference ? */
 .ow { color: #000000; font-weight: bold } /* Operator.Word */
 .w { color: #bbbbbb } /* Text.Whitespace */
 .mf { color: #009999 } /* Literal.Number.Float */
