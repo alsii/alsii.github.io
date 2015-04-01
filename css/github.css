@@ -42,7 +42,7 @@ pre { font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace; }
 .nl { color: #990000; font-weight: bold } /* Name.Label */
 .nn { color: #555555 } /* Name.Namespace */
 .nt { color: #000080 } /* Name.Tag */
-.nv { color: #008080 } /* Name.Variable */
+.nv { color: #0000ff } /* Name.Variable */
 .ow { color: #000000; font-weight: bold } /* Operator.Word */
 .w { color: #bbbbbb } /* Text.Whitespace */
 .mf { color: #009999 } /* Literal.Number.Float */
