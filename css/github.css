@@ -33,7 +33,7 @@ pre { font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace; }
 .m { color: #009999 } /* Literal.Number */
 .s { color: #d01040 } /* Literal.String */
 .na { color: #000000 } /* Name.Attribute */
-.nb { color: #0086B3 } /* Name.Builtin */
+.nb { color: #000000; font-style: italic; } /* Name.Builtin */
 .nc { color: #040404; font-weight: bold } /* Name.Class */
 .no { color: #008080 } /* Name.Constant */
 .nd { color: #3c5d5d; font-weight: bold } /* Name.Decorator */
