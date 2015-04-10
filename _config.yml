@@ -2,6 +2,10 @@ markdown: redcarpet
 #markdown: kramdown
 highlighter: pygments
 
+syntax-highlighting:
+  enabled : true
+  css: css/gighub.css
+
 redcarpet:
   extensions:
     - smart
