@@ -1,6 +1,6 @@
 markdown: redcarpet
 # markdown: kramdown
-highlighter: rouge
+# highlighter: rouge
 
 redcarpet:
   extensions:
